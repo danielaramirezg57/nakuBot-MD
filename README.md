@@ -42,7 +42,7 @@ cd /sdcard && git clone https://github.com/danielaramirezg57/nakuBot-MD.git
 ```
 
 ```bash
-cd Naufrabot-base
+cd nakuBot-MD 
 ```
 
 ```bash
