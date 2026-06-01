@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/vH5SHVW5/20260316-151443.jpg" width="300" alt="nakuBot-MD" />
+  <img src="https://i.postimg.cc/hjwyKgT7/images.jpg" width="300" alt="nakuBot-MD" />
 </p>
 
 
